@@ -36,4 +36,8 @@ Generic installation instructions
 
 * `telnet 127.0.0.1 6317` from a command-line. default port is 6317 but can be changed in server.cfg
        
+---
 
+This fork of Cataclysm: Looming Darkness is ran by YuNoGuy123.
+I do not claim credit for the idea or any code in this project.
+This fork was created for the purpose of expanding what is currently in Cataclysm: Looming Darkness.
